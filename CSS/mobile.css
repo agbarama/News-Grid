@@ -34,6 +34,10 @@
 
 @media(max-width: 600px) {
 
+  h1, h2 {
+    margin-bottom: 20px 10px;
+  }
+
   /* Stack Grid Items */
 
 #showcase .showcase-container,
@@ -67,5 +71,9 @@
 /* Reduce size of heading */
 .l-heading {
   font-size: 2rem;
+}
+
+.py-2 {
+  paragr
 }
 }
