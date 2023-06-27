@@ -45,7 +45,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
 font-family: 'staatliches', cursive;
 margin-bottom: .55rem;
-line-height: 1.3rem;
+line-height: 3rem;
 }
 
 /* utility */
@@ -162,6 +162,11 @@ line-height: 1.3rem;
 .l-heading {
   font-size: 3rem;
   margin: 1rem 0;
+}
+
+.img-1 {
+  height: 350px;
+  width: 380px;
 }
 
 /* Navigation */
