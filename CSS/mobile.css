@@ -34,8 +34,8 @@
 
 @media(max-width: 600px) {
 
-  h1, h2 {
-    margin-bottom: 20px 10px;
+  h1, h2, h3, h4, h5, h5, h6 {
+    line-height: 2.5rem;
   }
 
   /* Stack Grid Items */
